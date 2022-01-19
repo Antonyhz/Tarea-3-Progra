@@ -1,7 +1,6 @@
-Tarea 3 dplyr
-================
-Kevin Huanca
-18/1/2022
+Tarea 3 
+================18/1/2022
+
 
 ##DESARROLLO DE LA TAREA DPLYR # Comenzamos llamando a la libreria
 dplyr, nycflingts13 y ggplt2 library(dplyr) library(tidyverse)
